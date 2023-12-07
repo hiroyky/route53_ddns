@@ -20,4 +20,6 @@ aws route53 change-resource-record-sets \
             { \"Value\": \"${IP_V4}\" }
         ]\
     }\
+}\
+]\
 }"
